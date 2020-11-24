@@ -1,5 +1,5 @@
 
-# Note Using Room Database
+# Barcode Scanner using zxing
 
 <h3 align="left">Preview:</h3>
 <p align="left"> 
